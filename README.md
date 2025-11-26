@@ -18,6 +18,7 @@ machine learning pipeline – including problem formulation, outcome
 definition, data collection, and model training – contribute to the
 social impact of algorithmic systems.
 
+TODO: Make html page?
 [Syllabus](https://docs.google.com/document/d/1Va2hsFtfunoaXDcIMCO1E3D_m-9P2SNZuyUtzPLeTa8/edit?tab=t.0)
 
 [Shared google drive](https://drive.google.com/drive/folders/1bzlOncnA87_yNk16tDi8k_uhbe_ht-Gf)
@@ -54,7 +55,7 @@ or complete the non-presenter assignment (described below).
   question about the paper (e.g., something you're uncertain about or
   would like to hear discussed).
 
-TBD [Signup sheet for discussions - TBD](xxx)
+TODO [Signup sheet for discussions - TBD](xxx)
 
 ### Course project
 
@@ -71,7 +72,7 @@ select their own dataset for the project (which cannot be a commonly
 used ML benchmark dataset) or select one from the set of examples
 provided.
 
-TBD [Example datasets for project](https://docs.google.com/document/d/1toAm2vrolMIanQYq5KaKN_x5q6eVLFhhCInaBx1RYwQ/edit?tab=t.0)
+TODO - use Gingers? [Example datasets for project](https://docs.google.com/document/d/1toAm2vrolMIanQYq5KaKN_x5q6eVLFhhCInaBx1RYwQ/edit?tab=t.0)
 
 ## Grading 
 
