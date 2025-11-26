@@ -71,7 +71,7 @@ select their own dataset for the project (which cannot be a commonly
 used ML benchmark dataset) or select one from the set of examples
 provided.
 
-TBD [Example datasets for project](https://docs.google.com/document/d/1K8Yd82q4S-aWpBXdmG9w1FRJonpKrUI0Hxw7_HFL5yc/edit?usp=sharing)
+TBD [Example datasets for project](https://docs.google.com/document/d/1toAm2vrolMIanQYq5KaKN_x5q6eVLFhhCInaBx1RYwQ/edit?tab=t.0)
 
 ## Grading 
 
@@ -94,3 +94,4 @@ Each component will contribute towards the final grade as follows:
 
 ## Course Schedule
 
+[Schedule](https://raw.githack.com/wwcohen/10718_s2026/main/schedule.html)
